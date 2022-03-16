@@ -1,0 +1,22 @@
+{
+
+    "menuItems" :[{
+        "imgsrc": "images/AdobeStock_468881483.jpeg",
+        "imgalt": "Tacos",
+        "kitName": "1 Pound Kit",
+        "kitPrice": 25,
+        "kitDescription": "lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum",
+        "kitBuyMax": 3
+        
+    },
+    {
+        "imgsrc": "images/AdobeStock_468881483.jpeg",
+        "imgalt": "Tacos",
+        "kitName": "2 Pound Kit",
+        "kitPrice": 35,
+        "kitDescription": "lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum",
+        "kitBuyMax": 3
+        
+    }]
+
+}
